@@ -31,8 +31,10 @@
 
 # .git
 
-Taille du repo max : 5 Go
-Taille d'un fichier max : 100 Mb
+- Taille du repo max : 5 Go
+- Taille d'un fichier max : 100 Mb
+
+**Aucun transfert de fichier en dehors de GitHub, pas par discord, pas par clé USB, uniquement par GitHub** (sauf grosse urgence).
 
 ## [.gitignore](.gitignore)
 
