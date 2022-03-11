@@ -1,3 +1,9 @@
+# Dossiers de test/poubelles, pour placer les fichiers que vous voulez pas commit
+[Tt]rash/
+[Pp]oubelle/
+[Tt]est/
+[Tt]esting/
+
 # Useless folders
 [Bb]inaries/
 [Bb]uil/
