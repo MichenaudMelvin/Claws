@@ -124,7 +124,7 @@ Nommenclature classique : camelCase
 
 **Pour les maps/levels/scenes : pas de préfix/sufixes mais doivent être placé dans un dossier le dossier "Maps"**
 
-*Si non dispo, ajoutez ([REF](https://www.gamecoderblog.com/en/unreal-engine4/ue4-recommended-files-naming-convention))*
+*Si non dispo, ajoutez ([REF](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/AssetNaming/))*
 
 Pensez à rajouter le sufixe "_01" pour les assets (pour le reste c'est moins utile)
 
@@ -137,8 +137,7 @@ Pensez à rajouter le sufixe "_01" pour les assets (pour le reste c'est moins ut
 
 | Type              | Préfix  |
 | ----------------- | ------- |
-| AnimationBP       | AnimBP_ |
-| Animation         | Anim_   |
+| AnimationBP       | ABP_    |
 | Blackboard        | BB_     |
 | BehaviorTree      | BT_     |
 | Blueprint         | BP_     |
@@ -155,7 +154,7 @@ Pensez à rajouter le sufixe "_01" pour les assets (pour le reste c'est moins ut
 | PhysicalMaterial  | PM_     |
 | SkeletalMesh      | SK_     |
 | Sprite            | SP_     |
-| TextureC          | T_      |
+| Texture           | T_      |
 | TextureCube       | TC_     |
 | UIImage           | Img_    |
 
