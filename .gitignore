@@ -4,6 +4,10 @@
 [Tt]est/
 [Tt]esting/
 
+# Build folders
+[Bb]uild/
+[Bb]uilds/
+
 # Useless folders
 [Bb]inaries/
 [Bb]uil/
