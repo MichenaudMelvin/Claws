@@ -4,3 +4,5 @@
 - MERET Rayan​
 - MICHENAUD Melvin
 - REY Sébastien​
+
+[Dernière version dispo ici](https://github.com/MichenaudMelvin/TrojanHorseProjetSemestriel/releases/latest)
