@@ -9,12 +9,12 @@
 [Bb]uilds/
 
 # Useless folders
-[Bb]inaries/
-[Bb]uil/
-[Dd]erviedDataCache/
-[Ii]ntermediate/
-[Ss]aved/
-[Ss]tarterContent/
+**/*[Bb]inaries/
+**/*[Bb]uil/
+**/*[Dd]erivedDataCache/
+**/*[Ii]ntermediate/
+**/*[Ss]aved/
+**/*[Ss]tarterContent/
 
 # Compiled Object files
 *.slo
